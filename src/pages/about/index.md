@@ -1,19 +1,19 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: このサイトについて
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### ♪木陰で育ったコーヒー
+コーヒーは、野生の状態では森林の下層部に生育する小木や低木ですが、伝統的には日陰となる他の木の下で商業的に栽培されていました。シェードコーヒー農園の森のような構造は、多くの渡り鳥や留鳥の生息地となっています。
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### シングルオリジン
+シングルオリジンコーヒーとは、単一の産地で栽培されたコーヒーのことです。時には単一の農園や単一の国の特定の豆を集めたものもあります。また、コーヒーの名前は、通常、そのコーヒーが栽培された場所を、可能な限り表します。
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### 持続可能な農業
+持続可能な農業とは、生物と環境の関係を研究する生態系サービスを理解した上で、持続可能な方法で農業を行うことです。何がどこでどのように栽培されているかは、自然や地域社会に配慮した選択の問題です。
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+###ダイレクト・ソーシング
+ダイレクトトレードは、一部のコーヒーロースターが実践している調達方法です。ダイレクトトレードを提唱する人は、バイヤーと農家の間で直接コミュニケーションを取り、価格交渉を行い、品質を奨励し、インセンティブを与えるシステムを推進しています。
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 利益の再投資
+私たちは、お客様に素晴らしいコーヒーをお届けするために、地域社会に真の力を与えたいと考えています。そのために、私たちは利益の20％を、コーヒーを生産しているすべての地域の農場や地元企業、学校に再投資しています。このようなコミュニティの成長や、コーヒー栽培についての詳細は、ブログでご覧いただけます。

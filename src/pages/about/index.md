@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: PROFILE
 ---
-![profile_image](https://github.com/ideahy/gatsby-starter-netlify-cms/blob/master/src/img/itsme.jpg?raw=true)
+<img width="300" alt="qiita-square" src="https://github.com/ideahy/gatsby-starter-netlify-cms/blob/master/src/img/itsme.jpg?raw=true">
 
 > ### COMMENT
 京都市内にてフリーランスエンジニアとして活動しています。<br>

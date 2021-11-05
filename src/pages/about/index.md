@@ -13,11 +13,11 @@ title: PROFILE
 
 ***
  ### INFOMATION
- #### Name: Hideaki Yamamoto
- #### Address: Kyoto
- #### Working Status: freelance
- #### Certification: CCNA (Cisco Certified Network Associate)
- #### Hobby: movie, philosophy, anime, psychology, TV show, etc...
+ ##### Name: Hideaki Yamamoto
+ ##### Address: Kyoto
+ ##### Working Status: freelance
+ ##### Certification: CCNA (Cisco Certified Network Associate)
+ ##### Hobby: movie, philosophy, anime, psychology, TV show, etc...
 ***
 
 > ### HISTORY
@@ -29,8 +29,8 @@ title: PROFILE
 
 ***
 ### SKILLS
-#### Language: HTML, CSS, JavaScript, TypeScript, Swift, Italian
-#### Framework: Express, React, Vue
-#### Database: MySQL, MongoDB, Firestore
-#### Others: GCP, Docker
+##### Language: HTML, CSS, JavaScript, TypeScript, Swift, Italian
+##### Framework: Express, React, Vue
+##### Database: MySQL, MongoDB, Firestore
+##### Others: GCP, Docker
 ***

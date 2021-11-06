@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: PROFILE
 ---
-<img width="300" alt="itsme" src="https://github.com/ideahy/gatsby-starter-netlify-cms/blob/master/static/img/itsme.jpg?raw=true">
+<img width="300" alt="itsme" src="https://github.com/ideahy/gatsby-starter-netlify-cms/blob/master/src/img/itsme.jpg?raw=true">
 
 > ### COMMENT
 >

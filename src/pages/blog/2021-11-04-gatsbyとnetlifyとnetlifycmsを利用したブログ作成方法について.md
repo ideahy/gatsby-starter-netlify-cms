@@ -9,7 +9,8 @@ description: |-
 featuredpost: false
 featuredimage: /img/blog-index.jpg
 ---
+
 マークダウンで書けるようだが、変なところにカーソルが合わされている。
 
-* hoge
-* リッチテキストでもどっちでもかける模様
+- hoge
+- リッチテキストでもどっちでもかける模様

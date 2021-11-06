@@ -1,50 +1,54 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: It’s a perfect day for "idea"
+image: /img/img_0578.jpg
+heading: ABOUT
+subheading: brought to you by Hideaki Yamamoto.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: INTRODUCTION
+  description: |-
+    遠い地平線が消えて、
+    深々とした夜の闇に心を休める時、
+    遥か雲海の上を、
+    音もなく流れ去る気流は、
+    たゆみない 宇宙の営みを告げています。
+    満点の星をいただく果てしない光の海を、
+    豊かに流れゆく風に 心を開けば、
+    煌く星座の物語も聞こえてくる、
+    夜の静寂の、
+    なんと饒舌なことでしょうか。
+    光と影の境に消えていったはるかな地平線も瞼に浮かんでまいります。
+    夜間飛行のお供を致しますパイロットは 大沢たかおです。
+description: 京都市内にてフリーランスエンジニアとして活動しています。 ReactとVueでフロントを触り始めました。
+  JSが全くわかりません、でもJAVAの方がもっとわかりません。 ただ周囲の方に恵まれています。
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/itsme.jpg
+      text: |-
+        京都市内にてフリーランスエンジニアとして活動しています。
+        ReactとVueでフロントを触り始めました。 
+        JSが全くわかりません、でもJAVAの方がもっとわかりません。 
+        ただ周囲の方に恵まれています。
+    - image: /img/itsme.jpg
+      text: |-
+        Name: Hideaki Yamamoto
+        Address: Kyoto
+        Working Status: freelance
+        Certification: CCNA (Cisco Certified Network Associate)
+        Hobby: movie, philosophy, anime, psychology, TV show, etc...
+    - image: /img/itsme.jpg
+      text: |-
+        2017年 東京都内某所S大学卒業
+        2018年 バラエティ番組番組制作業務に従事。メキメキとカラオケが上手くなり、MISIAで95点を叩き出すまでに成長。
+        2019年 自分を見つめ直す
+        2020年 SES企業でネットワークエンジニアを経験
+        2021年 フリーランスとして独立
+    - image: /img/itsme.jpg
+      text: |-
+        Language: HTML, CSS, JavaScript, TypeScript, Swift, Italian
+        Framework: Express, React, Vue
+        Database: MySQL, MongoDB, Firestore
+        Others: GCP, Docker
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -60,7 +64,7 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/itsme.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
